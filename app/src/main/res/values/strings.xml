@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="_31">31°</string>
+    <string name="zmir">İzmir</string>
+    <string name="r_zgar">Rüzgar</string>
+    <string name="nem">Nem</string>
+    <string name="_9_km_s">9 km/s</string>
+    <string name="_54">54%</string>
+    <string name="ya_oran">Yağış Oranı</string>
+    <string name="_3">%3</string>
+    <string name="per_embe">Perşembe</string>
+    <string name="pazartesi">Pazartesi</string>
+    <string name="ar_amba">Çarşamba</string>
+    <string name="cuma">Cuma</string>
+    <string name="sal">Salı</string>
+    <string name="pr">Prş</string>
+    <string name="pzt">Pzt</string>
+    <string name="r">Çrş</string>
+    <string name="_35">35°</string>
+    <string name="_29">29°</string>
+    <string name="_33">33°</string>
+    <string name="_25">25°</string>
+    <string name="cum">Cum</string>
+    <string name="_sal">Sal</string>
+</resources>
